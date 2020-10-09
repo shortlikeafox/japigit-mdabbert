@@ -1,0 +1,93 @@
+Enter a Stock Symbol or quit to exit
+
+aapl
+{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "116.2500",
+        "03. high": "116.4000",
+        "04. low": "114.5901",
+        "05. price": "114.9700",
+        "06. volume": "82358444",
+        "07. latest trading day": "2020-10-08",
+        "08. previous close": "115.0800",
+        "09. change": "-0.1100",
+        "10. change percent": "-0.0956%"
+    }
+}
+The current price of aapl is: 114.9700
+Enter a Stock Symbol or quit to exit
+
+wtw
+{
+    "Global Quote": {
+        "01. symbol": "WTW",
+        "02. open": "22.2300",
+        "03. high": "22.9774",
+        "04. low": "22.1400",
+        "05. price": "22.6900",
+        "06. volume": "1458570",
+        "07. latest trading day": "2020-10-07",
+        "08. previous close": "21.8500",
+        "09. change": "0.8400",
+        "10. change percent": "3.8444%"
+    }
+}
+The current price of wtw is: 22.6900
+Enter a Stock Symbol or quit to exit
+
+amzn
+{
+    "Global Quote": {
+        "01. symbol": "AMZN",
+        "02. open": "3224.9900",
+        "03. high": "3233.2944",
+        "04. low": "3174.9900",
+        "05. price": "3190.5500",
+        "06. volume": "3154997",
+        "07. latest trading day": "2020-10-08",
+        "08. previous close": "3195.6900",
+        "09. change": "-5.1400",
+        "10. change percent": "-0.1608%"
+    }
+}
+The current price of amzn is: 3190.5500
+Enter a Stock Symbol or quit to exit
+
+lmnd
+{
+    "Global Quote": {
+        "01. symbol": "LMND",
+        "02. open": "54.7000",
+        "03. high": "60.1200",
+        "04. low": "54.5100",
+        "05. price": "60.1000",
+        "06. volume": "1537143",
+        "07. latest trading day": "2020-10-08",
+        "08. previous close": "53.6000",
+        "09. change": "6.5000",
+        "10. change percent": "12.1269%"
+    }
+}
+The current price of lmnd is: 60.1000
+Enter a Stock Symbol or quit to exit
+
+bhc
+{
+    "Global Quote": {
+        "01. symbol": "BHC",
+        "02. open": "17.0600",
+        "03. high": "18.3400",
+        "04. low": "16.9900",
+        "05. price": "18.0400",
+        "06. volume": "11443650",
+        "07. latest trading day": "2020-10-08",
+        "08. previous close": "16.0800",
+        "09. change": "1.9600",
+        "10. change percent": "12.1891%"
+    }
+}
+The current price of bhc is: 18.0400
+Enter a Stock Symbol or quit to exit
+
+quit
